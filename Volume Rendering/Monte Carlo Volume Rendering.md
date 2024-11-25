@@ -30,9 +30,19 @@
 | $\alpha: \mathbb{R}^{3} \mapsto \mathbb{R}$ | Single Scattering Albedo, $\alpha = \sigma_{s} / \sigma_{t}$ | |
 | $f_{p}: \mathbb{R}^{3} \times \mathbb{S}^{2} \times \mathbb{S}^{2} \mapsto \mathbb{R}$ | Phase Function | |
 
+这些是与数值计算相关的符号。
+
+| Symbol | Description |
+| :----: | :---------: |
+| $\langle \cdot \rangle$ | Estimator of Monte Carlo Integral |
+| $\xi, \eta \sim U(0, 1)$ | Uniform Random Variable |
+| $p$ | Probability Density Function |
+| $F$ | Cumulative Distribution Function |
+
 ## Resources
 
 1. [Siggraph 2018 Course](https://cs.dartmouth.edu/~wjarosz/publications/novak18monte-sig.html)
 
 ## [Volume Rendering Theory](./Volume%20Rendering%20Theory.md)
 
+## Stochastic Geometry
